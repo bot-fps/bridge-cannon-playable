@@ -1,7 +1,7 @@
 # Bridge Cannon Playable
 
 - Play (latest): https://bot-fps.github.io/bridge-cannon-playable/
-- Latest ZIP: bridge-cannon-playable_EN_20261023_0101.zip (3.6 MB, contains index.html 4.7 MB)
-- Previous ZIP: bridge-cannon-playable_EN_20261023.zip
+- Latest ZIP: bridge-cannon-playable_EN_20261023_0232.zip (3.7 MB, contains index.html 4.74 MB)
+- Older ZIPs: bridge-cannon-playable_EN_20261023_0101.zip, bridge-cannon-playable_EN_20261023.zip
 
-Last rebuild: 2026-10-23 01:01
+Last rebuild: 2026-10-23 02:32
